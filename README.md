@@ -42,4 +42,4 @@ Daha çıktı eklemeleri devam edecektir
 - [ ] JSON, XML ve YAML Veri Yapıları
 - [ ] Restconf & Netconf
 
-**Hazırlayan:** Enes - Bilgisayar Mühendisliği Öğrencisi
+**Hazırlayan:** Enes Çağrı ÇALIŞKAN
